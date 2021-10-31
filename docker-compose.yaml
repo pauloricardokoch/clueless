@@ -1,0 +1,11 @@
+version: "3.9"
+services:
+  node:
+    build: "."       
+    environment:
+      - APP_NAME=clueless
+      - PORT=8080
+    volumes:
+      - ./src/:/app/clueless
+    ports:
+      - 8080:8080

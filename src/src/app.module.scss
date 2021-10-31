@@ -1,0 +1,24 @@
+/* Copyright (c) 2021, Paulo Ricardo Koch  */
+/* Licensed under the BSD 3-Clause License */
+
+@import "./colors";
+
+.app {
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+
+    background: rgba($primary-bg-color, 1);
+    color: rgba($primary-color, 1);
+}
+
+.title {
+    font-size: 20px;
+
+    padding: 0 0 0 20px;
+    width: 100%;
+}
