@@ -1,0 +1,40 @@
+{
+    "areas": [
+        {
+            "title": "Suspects",
+            "items": [
+                "Mustard",
+                "Plum",
+                "Green",
+                "Peacock",
+                "Scarlet",
+                "White"
+            ]
+        },
+        {
+            "title": "Weapons",
+            "items": [
+                "Knife",
+                "Candlestick",
+                "Revolver",
+                "Rope",
+                "Lead Pipe",
+                "Wrench" 
+            ]
+        },
+        {
+            "title": "Rooms",
+            "items": [
+                "Hall",
+                "Lounge",
+                "Dining Room",
+                "Kitchen",
+                "Ballroom",
+                "Conservatory",
+                "Billiard Room",
+                "Library",
+                "Study"
+            ]
+        }
+    ]
+}
